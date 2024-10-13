@@ -1,5 +1,5 @@
 # BANK-CRM-Analysis
-1. Analyzed customer behavior, churn trends, and product engagement to derive actionable insights for business growth.
+1. Analyzed customer behaviour, churn trends, and product engagement to derive actionable insights for business growth.
 
 2. Investigated customer churn by demographics such as age, gender, and geography to understand exit patterns.
 
